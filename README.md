@@ -24,5 +24,6 @@
 - **Stream Deck and Touch Portal useable** If you use a Stream Deck or the Touch Portal app, these icons will work.
 
 <br>
-# MORE COMING SOON
 
+# Information
+Please check out the Wiki for information regarding requesting icons, reporting issues, or contribution instructions.
