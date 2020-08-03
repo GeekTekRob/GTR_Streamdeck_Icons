@@ -1,0 +1,4 @@
+name=Framed Audio - GTR StreamDeck Icons
+author=GeekTekRob
+link=https://twitter.com/GeekTekRob
+bgcolor=#576579

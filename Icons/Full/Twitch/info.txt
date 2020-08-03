@@ -1,0 +1,4 @@
+name=Twitch - GTR StreamDeck Icons
+author=GeekTekRob
+link=https://twitter.com/GeekTekRob
+bgcolor=#643da7
