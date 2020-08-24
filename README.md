@@ -1,10 +1,10 @@
-# GTR Streamdeck Icons
+# [![GeekTekRob Header](/_repoimage/GTRStreamDeckIcons_Banner.jpg?raw=true)](https://github.com/GeekTekRob/GTR_StreamDeck_Icons/)
 
 <div align="center">
 
 [![Contributers](https://img.shields.io/badge/Contributers-Welcome-Blue.svg)](https://shields.io/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GeekTekRob/GTR_Streamdeck_Icons.js/graphs/commit-activity)
-[![GitHub release](https://img.shields.io/github/v/release/GeekTekRob/GTR_Streamdeck_Icons.svg)](https://github.com/GeekTekRob/GTR_Streamdeck_Icons.js/releases/))
+[![GitHub release](https://img.shields.io/github/v/release/GeekTekRob/GTR_Streamdeck_Icons.svg)](https://github.com/GeekTekRob/GTR_Streamdeck_Icons.js/releases/)
 
 </div>
 
@@ -19,8 +19,11 @@
 
 ## Folder Breakdown  
 - **ICONS** - Folders containing the icons in groupings to try to organize them in smaller collections.
+    - **Framed** - Original style of icons being built in this repo. Not being added to without request.
+    - **Full** - Current and ongoing version of this icon set which will be added to and maintained at intervals with my own needs and requests from the community.
 - **Template** - The templates used to create the icons within this collection.
 - **TouchPortal** - As my main streamdeck is using the TouchPortal app, contained within are icon packs.
+    - **Framed** - Touch-Portal tpi files for the original framed version icons.
 
 
 # Information  
